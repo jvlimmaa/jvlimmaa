@@ -19,7 +19,14 @@ Me chamo João Victor Lima, tenho 18 anos e sou de Indaiatuba, SP. Concluí o cu
             src="https://custom-icon-badges.demolab.com/github/followers/jvlimmaa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/jvlimmaa">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-lima-dos-santos-2809113a9" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/jvlimmaa" target="_blank">
         <img 
             alt="Instagram" 
             title="Siga-me no Instagram" 
@@ -148,3 +155,21 @@ Me chamo João Victor Lima, tenho 18 anos e sou de Indaiatuba, SP. Concluí o cu
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jvlimmaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvlimmaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
