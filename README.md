@@ -78,7 +78,7 @@ Me chamo João Victor Lima, tenho 18 anos e sou de Indaiatuba, SP. Concluí o cu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-
+/>
 <img 
     align="left" 
     alt="Git" 
